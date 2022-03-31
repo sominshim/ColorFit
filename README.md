@@ -13,7 +13,9 @@ Personal Color는 개인 고유의 신체색을 의미하며, 개인의 특성�
 
 
 ## 2. 기술 스택
+<img width="621" alt="기술스택" src="https://user-images.githubusercontent.com/60233499/160976182-1832f59a-6457-489d-b199-77312a86b383.png">
 
+<!-- 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <img src="https://img.shields.io/badge/Python-3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Tensorflow-2.8-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
 #### Back-end : <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/aws S3-FF9900?style=for-the-badge&logo=Amazon S3&logoColor=white">
@@ -21,7 +23,7 @@ Personal Color는 개인 고유의 신체색을 의미하며, 개인의 특성�
 #### Front-end : <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">  <img src="https://img.shields.io/badge/axios-5a29e4?style=for-the-badge&logo=axios&logoColor=white">  <img src="https://img.shields.io/badge/recoil-0079f4?style=for-the-badge&logo=recoil&logoColor=white">  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 #### AI : <img src="https://img.shields.io/badge/yolo-v3-00FFFF?style=for-the-badge&logo=yolo&logoColor=white">  <img src="https://img.shields.io/badge/mobilenet-v2-f59af8?style=for-the-badge&logo=mobilenet&logoColor=white">
-
+ -->
 
 
 
@@ -84,13 +86,13 @@ colorfit/docs => 개발하면서 참고할 문서정리
 
 ## 5. 서비스 주요 기능 설명
 
-  - 얼굴 사진을 업로드하면 퍼스널 컬러를 분석하여 '봄 웜톤', '여름 쿨톤', '가을 웜톤', '겨울 쿨톤'의 결과를 제공합니다.![image-20220312094403147](./docs/color-result.png)
-  - 옷 사진을 업로드하면 옷과 각 계절별 톤과의 적합도를 persentage로, 사용자의 퍼스널 컬러와의 적합도를 세 가지 state로 제공합니다.![](./docs/clothes-result.JPG)
-
-- 퍼스널 컬러를 맞춰보는 미니 게임을 제공합니다.
-
-  ![image-20220312094301536](./docs/minigame.png)
-
+  - 얼굴 사진을 업로드하면 퍼스널 컬러를 분석하여 '봄 웜톤', '여름 쿨톤', '가을 웜톤', '겨울 쿨톤'의 결과를 제공합니다.
+    ![demo_personalcolor](https://user-images.githubusercontent.com/60233499/160976219-54c3a3e0-f384-4c29-9044-84f57a3aabd6.gif)
+    
+  - 옷 사진을 업로드하면 옷과 각 계절별 톤과의 적합도를 persentage로, 사용자의 퍼스널 컬러와의 적합도를 세 가지 state로 제공합니다.
+    ![demo_fasionmatching](https://user-images.githubusercontent.com/60233499/160976170-460acf48-1961-4b04-b8be-0ee2dd57a645.gif)
+  - 퍼스널 컬러를 맞춰보는 미니 게임을 제공합니다.
+  - ![demo_minigame](https://user-images.githubusercontent.com/60233499/160976166-c676baf4-1584-43c2-8f46-d104e6c806eb.gif)
 
 
 ## 6. 프로젝트 팀원
